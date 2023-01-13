@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kasra</h1>
 <h3 align="center">A Website front-end developer and video editor from Iran</h3>
 
-- 🌱 I’m currently learning **Css, Bootstrap**
+- 🌱 I’m currently learning **HTML , CSS , Bootstrap**
 
 - 📫 How to reach me **k5aidt@yahoo.com**
 
