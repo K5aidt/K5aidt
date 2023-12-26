@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **k5aidt@yahoo.com**
 
-- ⚡ Fun fact **My pc is literally POTATO**
+- 🌐 All about me in my website **kasraalidokht.ir**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
